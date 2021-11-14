@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.btn {
+  width: 150px;
+  align-self: end;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+#tweet-quote { 
+  align-self: flex-end;
+}
+
+.btn-twit {
+  background-color: #55ACEE;
+}
